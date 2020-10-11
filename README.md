@@ -1,1 +1,1 @@
-# Tribute Page for Levan AndiaShvili
+# Tribute Page for ლევან ანდიაშვილი
